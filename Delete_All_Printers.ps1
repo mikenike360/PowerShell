@@ -18,7 +18,7 @@ Function Delete-Printers
 	}
 	Else
 	{
-		Write-Warning "Cannot find network printer in the currently environment."
+		Write-Warning "Cannot find network printer"
 	}
 }
 
