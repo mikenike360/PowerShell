@@ -1,5 +1,5 @@
 ##############################################################################################
-##                      FCN Inventory Checker v1.4 (Added option to dump output to csv )    ##
+##                      Inventory Checker v1.4 (Added option to dump output to csv )        ##
 ##                      Written By: Michael Venema                                          ##
 ##                      Last Edit : 3/24/20                                                 ##
 ##                                                                                          ##
