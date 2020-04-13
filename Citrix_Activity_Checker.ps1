@@ -21,7 +21,7 @@ $export = "C:\Scripts\remote_users.csv"
 
 Write-Host "Grabbing Remote users from the CSV file please wait...."
 ""
-$data | Where-Object {($_.Name -like "smwagter") -or
+$data | Where-Object {($_.Name -like "<USERNAME>") -or
            ($_.Name -like "<USERNAME>") -or
            ($_.Name -like "<USERNAME>") -or
            ($_.Name -like "<USERNAME>")} | `
